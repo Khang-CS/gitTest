@@ -1,5 +1,2 @@
 print("Hello")
 print("Bonjour")
-print("Salute")
-print("comment allez vous")
-print("Vous voulez un cup de cafe")
