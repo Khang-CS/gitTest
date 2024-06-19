@@ -1,3 +1,5 @@
 print("Hello")
 print("Je t'aime")
 print("Vous voulez couche avec moi ce soir")
+print("Parlez vous francais ?")
+print("Tu manges le croissant ?")
